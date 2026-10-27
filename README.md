@@ -1,4 +1,4 @@
-# Retro World 🕹️
+# Pixel Lagancy 🕹️
 
 Uma loja de jogos retrô desenvolvida em HTML5, CSS3 e JavaScript puro. O sistema permite cadastrar novos títulos com informações personalizadas e mantém os dados salvos mesmo após atualizar a página (F5).
 
